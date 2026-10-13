@@ -1,0 +1,101 @@
+Complaint,Priority
+Fire in chemistry lab,Urgent
+Fire alarm activated in academic block,Urgent
+Smoke coming from electrical room,Urgent
+Exposed electrical wire in hostel corridor,Urgent
+Electric shock reported in laboratory,Urgent
+Gas smell detected near chemistry lab,Urgent
+Student fainted in classroom,Urgent
+Severe flooding near electrical panel,Urgent
+Ceiling collapse in classroom,Urgent
+Broken glass creating serious injury risk,Urgent
+Lift stuck with students inside,Urgent
+Strong gas smell in canteen kitchen,Urgent
+Large tree branch blocking main entrance,Urgent
+Emergency exit blocked during fire drill,Urgent
+Chemical spill in science laboratory,Urgent
+Live wire hanging near playground,Urgent
+Smoke coming from hostel room,Urgent
+Major pipe burst flooding hostel floor,Urgent
+Student seriously injured on campus stairs,Urgent
+Electrical sparks from computer lab socket,Urgent
+Water leakage in hostel bathroom,High
+Hostel drinking water unavailable,High
+Several hostel rooms have no water supply,High
+Toilet drainage overflowing in hostel,High
+Broken main door lock in girls hostel,High
+Food quality complaint about hostel dinner,High
+Canteen refrigerator not working and food spoiling,High
+Classroom ceiling leaking during rain,High
+Laboratory equipment not working before practical exam,High
+Internet down in entire computer lab,High
+Hostel water purifier not working,High
+Multiple street lights not working near hostel,High
+Broken window glass in occupied classroom,High
+Severe sewage smell near student residence,High
+Campus bus broke down with students waiting,High
+Washroom taps broken in hostel block,High
+Library computer network unavailable during exams,High
+Hostel room door cannot be locked,High
+Canteen drinking water dispenser broken,High
+Rainwater entering classroom,High
+Classroom fan not working,Normal
+Projector not working in classroom,Normal
+One computer not starting in computer lab,Normal
+Classroom whiteboard needs cleaning,Normal
+Broken chair in lecture hall,Normal
+Dustbin full in classroom corridor,Normal
+Library air conditioner not cooling properly,Normal
+Campus Wi-Fi slow in one classroom,Normal
+Hostel corridor light not working,Normal
+Classroom clock stopped working,Normal
+Printer not working in office,Normal
+Sports equipment needs repair,Normal
+Classroom desk is loose,Normal
+Water tap dripping slowly in washroom,Normal
+Library study table is damaged,Normal
+Canteen menu board needs updating,Normal
+College bus timetable display is faded,Normal
+Lab keyboard has missing keys,Normal
+Hostel common room television not working,Normal
+Classroom door hinge is squeaking,Normal
+Request for more library books,Low
+Suggestion for campus garden,Low
+Request for more benches in garden,Low
+Suggestion to add notice board near canteen,Low
+Request for more indoor games,Low
+Suggestion to expand library book collection,Low
+Request for campus art exhibition,Low
+Suggestion to add recycling bins,Low
+Request for more charging points in study area,Low
+Suggestion to organize a cultural event,Low
+Request for more sports clubs,Low
+Suggestion to add plants in corridor,Low
+Request for more student reading spaces,Low
+Suggestion to improve campus decoration,Low
+Request for additional wall clocks,Low
+Suggestion to display student artwork,Low
+Request for more language learning books,Low
+Suggestion to arrange a campus photography day,Low
+Request for a student suggestion box,Low
+Suggestion to add more campus maps,Low
+Hostel bathroom tap leaking slightly,Normal
+One corridor light flickering,Normal
+Classroom notice board is damaged,Normal
+Request to repair a library chair,Normal
+Computer lab mouse is not working,Normal
+Canteen queue display is not working,Normal
+Campus map sign is faded,Low
+Request for more benches near library,Low
+Suggestion to start a reading club,Low
+Request for more recycling awareness posters,Low
+Hostel laundry room schedule needs updating,Low
+Suggestion to improve student event announcements,Low
+Request for more shaded outdoor seating,Low
+Suggestion to add a book exchange shelf,Low
+Request for additional campus information signs,Low
+Suggestion to organize a gardening club,Low
+Request to add more wall art to student lounge,Low
+Suggestion to improve the campus newsletter,Low
+Request for more board games in common room,Low
+Suggestion to add a lost-and-found notice board,Low
